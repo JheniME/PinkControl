@@ -1,0 +1,16 @@
+.container {
+  background-color: #ffc7e5;
+  height: 100vh;
+  margin-top: -50px;
+  padding-top: 50px;
+}
+
+.iconBack {
+  padding-left: 20px;
+  padding-top: 20px;
+}
+
+.iconBack button{
+  background-color: #fdc9e5;
+  border: none;
+}
